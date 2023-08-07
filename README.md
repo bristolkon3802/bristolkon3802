@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 ![Briatolkon Hi!](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
 
 ![bristolkon3802's github stats](https://github-readme-stats.vercel.app/api?username=bristolkon3802&show_icons=true)
-[![bristolkon3802's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bristolkon3802&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/bristolkon3802)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bristolkon3802&langs_count=8)
