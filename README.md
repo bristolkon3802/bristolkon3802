@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <a href="#this" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 -->
 ![Briatolkon Hi!](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
-#
+# e
 ![bristolkon3802's github stats](https://github-readme-stats.vercel.app/api?username=bristolkon3802&show_icons=true)
-#
+# Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bristolkon3802&langs_count=8)
