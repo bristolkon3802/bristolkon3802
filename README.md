@@ -30,7 +30,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=Node.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=Node.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/babel-F9DC3E?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/pug-A86454?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/codesandbox-151515?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/replit-F26207?style=flat-square&logo=Node.js&logoColor=white"/>
 
 
 
