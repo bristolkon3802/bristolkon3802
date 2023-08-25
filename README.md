@@ -27,15 +27,21 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=Node.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=Node.js&logoColor=white"/> 
-<img src="https://img.shields.io/badge/babel-F9DC3E?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/pug-A86454?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/codesandbox-151515?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/replit-F26207?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/> 
+<img src="https://img.shields.io/badge/babel-F9DC3E?style=flat-square&logo=babel&logoColor=white"/>
+<img src="https://img.shields.io/badge/pug-A86454?style=flat-square&logo=pug&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/> </br>
+<img src="https://img.shields.io/badge/codesandbox-151515?style=flat-square&logo=codesandbox&logoColor=white"/> 
+<img src="https://img.shields.io/badge/replit-F26207?style=flat-square&logo=replit&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/graphql-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/mongoose-F04D35?style=flat-square&logo=mongoose&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/koyeb-121212?style=flat-square&logo=koyeb&logoColor=white"/>
 
 
 
